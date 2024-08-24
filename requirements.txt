@@ -1,0 +1,5 @@
+pandas
+boto3
+requests
+google-cloud-bigquery
+google-auth
