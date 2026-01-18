@@ -48,5 +48,3 @@ python your_script_name.py
 
 ## Acknowledgments
 The Giving Tuesday Data Commons is the reason why a project like this is possible. Please check out the published 990 data that they curate and maintain here: https://990data.givingtuesday.org/
-
-This project was motivated by Mimi Brown, who wanted to facilitate transparency for private foundation charitable giving in her local area.
